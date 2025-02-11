@@ -317,7 +317,7 @@ if(@$_SESSION['siswa']) { ?>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                &copy; 2015 E-Learing SMK Indonesia | By : yukcoding.blogspot.com
+                &copy; 2015 E-Learing Center Indonesia | By : yudha.gustian
             </div>
 
         </div>
